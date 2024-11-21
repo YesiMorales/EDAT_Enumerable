@@ -43,9 +43,9 @@ internal class Program
             Console.WriteLine(lista[i]);
         }
 
-        #endregion 
+        #endregion
 
-
+        Console.WriteLine("===============================================");
         Console.ReadKey();
     }
 }
